@@ -1,0 +1,16 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.navbar-1{
+    margin-left: 80px;
+}
+.color{
+    color:white;
+}
+
+.nav-link{
+    color: white;
+    justify-content: space-between;
+    
+}
